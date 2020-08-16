@@ -4,13 +4,7 @@
 
 **Weighting:** 13.5
 
-This assessment is part of the individual assessments of the course. There are 5 of them, but we only count the best 4 out of 5. That means that the worst result won't be taken into account.
-
-Also, you cannot sit the assessment twice: you must sit for the assessment during your corresponding tutorial class.
-
-
 <br />
-
 
 ## Introduction
 
